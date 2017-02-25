@@ -8,3 +8,4 @@ OMDB / IMSB API: http://www.omdbapi.com/
 
 TMDB Project & API: https://developers.themoviedb.org/
 
+TODO: Language localization

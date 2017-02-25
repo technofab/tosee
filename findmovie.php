@@ -1,6 +1,6 @@
 <?php
 require('config.php');
-$lang = "en_GB";
+
 
 
 // $movie = $_GET["movie"]; 
